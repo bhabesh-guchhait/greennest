@@ -50,7 +50,7 @@ export default function UgaooHomePage() {
       <div className="bg-green-800 text-white">
         <div className="flex flex-col sm:flex-row justify-between items-center px-4 py-2 text-xs sm:text-sm">
           <div className="mb-1 sm:mb-0">Free Delivery Above ₹999 | Shop Now</div>
-          <div className="mb-1 sm:mb-0">Get 10% OFF Above ₹1299 | Use : RAIN10</div>
+          <div className="mb-1 sm:mb-0">Get 10% OFF Above ₹1299 | Use : RAINBG10</div>
           <div>Get 2 Large Plants @ ₹1999</div>
         </div>
       </div>
